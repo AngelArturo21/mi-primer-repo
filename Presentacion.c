@@ -2,6 +2,6 @@
 
 Int main(){
 	printf("Hola Mundo me llamo: ");
-	printf("Angel Arturo Montiel Monroy");
+	printf("Soy Angel Arturo Montiel Monroy");
 	return 0;
 }
